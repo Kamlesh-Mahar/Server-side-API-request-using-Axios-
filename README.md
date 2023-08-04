@@ -11,7 +11,7 @@
  - • Or simply open the folder location in console and type the command on console -  npm i
         it will install all the dependencies for you automatically.
 
--  • Then simply run the index.js by typing npm index.js on console.
+-  • Then simply run the index.js by typing nodemon index.js on console.
 -  • And then open your browser and search for localhost:3000 and you are done.
 
 
