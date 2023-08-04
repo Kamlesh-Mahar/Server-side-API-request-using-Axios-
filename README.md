@@ -13,3 +13,6 @@
 
 -  • Then simply run the index.js by typing npm index.js on console.
 -  • And then open your browser and search for localhost:3000 and you are done.
+
+
+![activity_generator](/preview.png)
